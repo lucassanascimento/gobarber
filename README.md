@@ -1,7 +1,7 @@
 # GoBarber
 
 <p align="center">
-<img alt="GoBarber" src="https://github.com/lucassanascimento/gobarber/assets/logo-gobarber.png" />
+<img alt="GoBarber" src="https://github.com/lucassanascimento/gobarber/blob/dev/assets/logo-gobarber.png" />
 </p>
 
 Bem-vindo ao projeto GoBarber!
