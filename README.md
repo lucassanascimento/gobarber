@@ -39,9 +39,7 @@ yarn install
 - Agora é só rodar o comando:
 
 ```bash
-npm run dev:server
-or
-yarn dev
+yarn dev:server
 ```
 
 ### Frontend
